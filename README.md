@@ -1,2 +1,2 @@
 # formlogin2
-A form that can be validation
+A form that can be validated
